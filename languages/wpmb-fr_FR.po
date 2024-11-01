@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WpMultimediaBridge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-25 23:10-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: imatrice <support@imatrice.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: D:\\Entreprise\\Projets\\_netbeans_projects\\wp_justecommeca_v1\\wp-content\\plugins\\wpmultimediabridge\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/wpmb-classes.php:16
+msgid "WpMultimediaBridge"
+msgstr "WpMultimediaBridge"
+
+#: admin/wpmb-classes.php:45
+msgid "Settings successfully saved"
+msgstr "Paramètres enregistrés avec succès"
+
+#: admin/wpmb-classes.php:48
+msgid "WpMultimediaBridge Settings"
+msgstr "Paramètres de WpMultimediaBridge"
+
+#: admin/wpmb-classes.php:49
+msgid "Click here for the list of supported sources"
+msgstr "Cliquez ici pour la liste des sources supportées"
+
+#: admin/wpmb-classes.php:50
+msgid "Versions"
+msgstr "Versions"
+
+#: admin/wpmb-classes.php:52
+msgid "Plugin:"
+msgstr "Extension :"
+
+#: admin/wpmb-classes.php:54
+msgid "Database:"
+msgstr "Base de données :"
+
+#: admin/wpmb-classes.php:57
+msgid "WpMultimediaBridge will be soon completely redesigned with new themes (3), new features and it will be renamed to WpVib."
+msgstr "WpMultimediaBridge sera bientôt complètement redessiné avec de nouveaux thèmes (3), de nouvelles fonctionalités et sera renommé pour WpVib."
+
+#: admin/wpmb-classes.php:60
+msgid "If you discover a bug with <i>WpMultimediaBridge</i>, send us an email to <strong>support@imatrice.com</strong>. Thank you!"
+msgstr "Si vous découvrez un bogue avec <i>WpMultimediaBridge</i>, envoyez nous un courriel à <strong>support@imatrice.com</strong>. Merci!"
+
+#: admin/wpmb-classes.php:63
+msgid "Filters"
+msgstr "Filtres"
+
+#: admin/wpmb-classes.php:64
+msgid "Those filters will convert any* urls** into a Facebook-like element."
+msgstr "Ces filtres convertissent tous* les liens** en un élément similaire à Facebook."
+
+#: admin/wpmb-classes.php:69
+msgid "Filter multimedia urls in posts content"
+msgstr "Filtrer les urls multimédia dans le contenu des articles"
+
+#: admin/wpmb-classes.php:76
+msgid "Filter multimedia urls in comments content <i>(soon)</i>"
+msgstr "Filtrer les urls multimédia dans le contenu des commentaires <i>(bientôt)</i>"
+
+#: admin/wpmb-classes.php:81
+msgid "* Multimedia urls supported by this plugin. For the version 1.0.0, only YouTube and Vimeo are supported. See the list at the bottom of this page."
+msgstr "* Urls multimédia supportés par cette extension. Pour la version 1.0.0, seul YouTube et Vimeo sont supportés. Voir la liste au bas de cette page."
+
+#: admin/wpmb-classes.php:83
+msgid "** Except those already marked as clickable link or inserted in a paragraph."
+msgstr "** À l'exception de ceux marqués comme liens cliquables ou insérés dans un paragraphe."
+
+#: admin/wpmb-classes.php:86
+msgid "Wordpress Filters"
+msgstr "Filtres Wordpress"
+
+#: admin/wpmb-classes.php:91
+msgid "Make other urls clickable in posts/pages content***"
+msgstr "Rendre les autres urls cliquable dans contenu des articles/pages***"
+
+#: admin/wpmb-classes.php:98
+msgid "Make other urls clickable in comments content*** <i>(soon)</i>"
+msgstr "Rendre les autres urls cliquable dans le contenu des commentaires*** <i>(bientôt)</i>"
+
+#: admin/wpmb-classes.php:102
+msgid "*** This will happen after adding WpMultimediaBridge elements in the content"
+msgstr "*** Ceux-ci vont être traités après l'ajout des éléments de WpMultimediaBridge dans le contenu"
+
+#: admin/wpmb-classes.php:105
+msgid "Other settings"
+msgstr "Autres paramètres"
+
+#: admin/wpmb-classes.php:108
+msgid "Width of multimedia canvas:"
+msgstr "Largeur de la zone multimédia :"
+
+#: admin/wpmb-classes.php:112
+msgid "pixels"
+msgstr "pixels"
+
+#: admin/wpmb-classes.php:115
+msgid "Leave empty for autosize. Minimum suggested of 420 pixels."
+msgstr "Laisser vide pour un dimensionnement automatique. Minimum suggéré de 420 pixels."
+
+#: admin/wpmb-classes.php:120
+msgid "Size of description in multimedia canvas:"
+msgstr "Dimension de la description dans le canvas multimédia :"
+
+#: admin/wpmb-classes.php:124
+msgid "words"
+msgstr "mots"
+
+#: admin/wpmb-classes.php:127
+msgid "Leave empty for no limit."
+msgstr "Laisser vide pour aucune limite."
+
+#: admin/wpmb-classes.php:131
+msgid "Advanced Options"
+msgstr "Options Avancées"
+
+#: admin/wpmb-classes.php:136
+msgid "Disable Wordpress posts and pages revisions history"
+msgstr "Désactiver l'historique des révisions des articles et des pages dans Wordpress"
+
+#: admin/wpmb-classes.php:140
+msgid "By disabling the Wordpress posts and pages revision history, you will increase the speed of this plugin on client side.<br />The effect will be visible for a blog that contains <strong>many thousand of posts</strong> with WpMultimediaBridge elements in it."
+msgstr "En désactivant l'historique de révision des articles et des pages dans Wordpress, vous pouvez augmenter la vitesse de cet extension côté client.<br />L'effet sera visible pour un blogue qui contient <strong>plusieurs milliers d'articles</strong> avec des éléments de WpMultimediaBridge à l'intérieur."
+
+#: admin/wpmb-classes.php:142
+#: admin/wpmb-classes.php:155
+msgid "By default, this option is unchecked."
+msgstr "Par défaut, cette option est décochée."
+
+#: admin/wpmb-classes.php:149
+msgid "Disable Wordpress posts and pages autosave"
+msgstr "Désactiver l'autosauvegarde des articles et des pages dans Wordpress"
+
+#: admin/wpmb-classes.php:153
+msgid "Disable the Wordpress posts and pages autosave only if you encounter problem regarding autosave versus this plugin."
+msgstr "Désactivez l'autosauvegarde des articles et des pages dans Wordpress seulement si vous rencontrez un problème en lien avec cet extension et l'autosauvegarde."
+
+#: admin/wpmb-classes.php:162
+msgid "Hide imatrice reference url"
+msgstr "Masquer l'url de référence vers imatrice"
+
+#: admin/wpmb-classes.php:166
+msgid "imatrice.com is the author of this plugin. By leaving this visibility to imatrice.com on your blog, you contribute to the success and evolution of this plugin. We thank you for that!"
+msgstr "imatrice.com est l'auteur de cette extension. En laissant cette visibilité à imatrice.com sur votre blogue, vous contribuez au succès et à l'évolution de cette extension. Nous vous en remercions!"
+
+#: admin/wpmb-classes.php:168
+msgid "By default, this option is checked. So, the small ad is NOT visible."
+msgstr "Par défaut, cette option est décochée. Alors, la petite publicité n'est PAS visible."
+
+#: admin/wpmb-classes.php:173
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: admin/wpmb-classes.php:187
+msgid "List of supported sources"
+msgstr "Liste des sources supportées"
+
+#: admin/wpmb-classes.php:189
+msgid "Here is the list of supported sources by <i>WpMultimediaBridge</i> Plugin."
+msgstr "Voici la liste des sources supportées par l'extension <i>WpMultimediaBridge</i>."
+
+#: admin/wpmb-classes.php:201
+msgid "Required format: http://www.youtube.com/watch?v=[media key]"
+msgstr "Format requis : http://www.youtube.com/watch?v=[clé du média]"
+
+#: admin/wpmb-classes.php:203
+#: admin/wpmb-classes.php:220
+msgid "[media key] represents the unique identifier for a specific media."
+msgstr "[clé du média] représente l'identificateur unique pour un média en particulier."
+
+#: admin/wpmb-classes.php:218
+msgid "Required format: http://vimeo.com/[media key]"
+msgstr "Format requis : http://vimeo.com/[clé du média]"
+
+#: admin/wpmb-classes.php:225
+msgid "More sources will be added soon. Thank you!"
+msgstr "D'autres sources seront ajoutées sous peu. Merci!"
+
+#: admin/wpmb-classes.php:232
+#: admin/wpmb-classes.php:233
+msgid "WpMultimediaBridge urls List"
+msgstr "WpMultimediaBridge Liste de urls"
+
+#: admin/wpmb-classes.php:250
+msgid "This multimedia element was saved successfully."
+msgstr "Cet élément multimédia a été enregistré avec succès."
+
+#: admin/wpmb-classes.php:251
+msgid "Title cannot be empty. Try again."
+msgstr "Le titre ne peut pas être vide. Essayez à nouveau."
+
+#: admin/wpmb-classes.php:252
+msgid "There was a problem saving your multimedia element. Try again."
+msgstr "Nous avons rencontré un problème lors de la sauvegarde de cet élément multimédia. Essayez de nouveau."
+
+#: admin/wpmb-classes.php:253
+msgid "This multimedia element was reseted successfully."
+msgstr "Cet élément multimédia a été réinitialisé avec succès."
+
+#: admin/wpmb-classes.php:254
+msgid "There was a problem reseting data from source url. Try again later."
+msgstr "Nous avons rencontré un problème lors de la réinitialisation à partir de la source. Essayez de nouveau."
+
+#: admin/wpmb-classes.php:255
+msgid "There was a problem changing status. Try again."
+msgstr "Nous avons rencontré un problème lors du changement de statut. Essayez de nouveau."
+
+#: admin/wpmb-classes.php:256
+msgid "This multimedia element was activated successfully."
+msgstr "Cet élément multimédia a été activé avec succès."
+
+#: admin/wpmb-classes.php:257
+msgid "This multimedia element was desactivated successfully."
+msgstr "Cet élément multimédia a été désactivé avec succès."
+
+#: admin/wpmb-classes.php:271
+msgid "Click here to expand"
+msgstr "Cliquez ici pour afficher"
+
+#: admin/wpmb-classes.php:276
+msgid "Title:"
+msgstr "Titre :"
+
+#: admin/wpmb-classes.php:280
+msgid "Description:"
+msgstr "Description :"
+
+#: admin/wpmb-classes.php:284
+msgid "Multimedia Url:"
+msgstr "Url multimédia :"
+
+#: admin/wpmb-classes.php:288
+msgid "Click here to collapse"
+msgstr "Cliquez ici pour masquer"
+
+#: admin/wpmb-classes.php:289
+msgid "Save changes"
+msgstr "Enregistrer les changements"
+
+#: admin/wpmb-classes.php:290
+msgid "Reset from source"
+msgstr "Réinitialiser à partir de la source"
+
+#: admin/wpmb-classes.php:291
+msgid "Desactivate"
+msgstr "Désactiver"
+
+#: admin/wpmb-classes.php:292
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/wpmb-classes.php:302
+msgid "There is currently no media for this page"
+msgstr "Il n'y a actuellement aucun média pour cette page"
+
+#: admin/wpmb-classes.php:304
+msgid "There is currently no media for this post"
+msgstr "Il n'y a actuellement aucun média pour cet article"
+
+#: themes/default/wpmb-view.php:38
+#: themes/default/wpmb-view.php:43
+#: themes/default/wpmb-view.php:56
+#, php-format
+msgid "Play video &gt; %s"
+msgstr "Jouer la vidéo &gt; %s"
+
+#: themes/default/wpmb-view.php:53
+msgid "Multimedia canvas by imatrice.com"
+msgstr "Zone multimédia par imatrice.com"
+
+#: themes/default/wpmb-view.php:55
+#, php-format
+msgid "Open source &gt; %s"
+msgstr "Ouvrir la source &gt; %s"
+
+#: themes/default/wpmb-view.php:55
+msgid "Source"
+msgstr "Source"
+
+#: themes/default/wpmb-view.php:56
+msgid "Play"
+msgstr "Jouer"
+
+#: themes/default/wpmb-view.php:57
+#, php-format
+msgid "Close video &gt; %s"
+msgstr "Fermer la vidéo &gt; %s"
+
+#: themes/default/wpmb-view.php:57
+msgid "Close"
+msgstr "Fermer"
+
+#~ msgid ""
+#~ "In a next version of this plugin, we will change the administration page "
+#~ "for a better look.<br />Currently our priority is to fix bugs and "
+#~ "increase the number of supported multimedia sources."
+#~ msgstr ""
+#~ "Dans une prochaine version de cette extension, nous allons améliorer le "
+#~ "visuel de la page d'administration.<br />Pour le moment, notre priorité "
+#~ "est de corriger les bogues et d'augmenter le nombre de sources multimédia "
+#~ "supportées."
+#~ msgid "By default, this small ad is hidden."
+#~ msgstr "Par défaut, cette option est masquée."
+#~ msgid "source:"
+#~ msgstr "source :"
+#~ msgid "Save"
+#~ msgstr "Sauvegarder"
+#~ msgid "Reset"
+#~ msgstr "Réinitialiser"
+#~ msgid "Open source"
+#~ msgstr "Ouvrir la source"
+#~ msgid "Play this video"
+#~ msgstr "Jouer la vidéo"
+#~ msgid "Close this video"
+#~ msgstr "Fermer la vidéo"
+#~ msgid "imatrice.com is the author of this plugin."
+#~ msgstr "imatrice.com est l'auteur de l'extension."
+#~ msgid "imatrice"
+#~ msgstr "imatrice"
+#~ msgid "Video"
+#~ msgstr "Vidéo"
+#~ msgid "WpMB"
+#~ msgstr "WpMB"
+#~ msgid ""
+#~ "There was a problem saving your media. Try again or communicate with the "
+#~ "plugin author."
+#~ msgstr ""
+#~ "Nous avons rencontré un problème lors de la sauvegarde de ce média. "
+#~ "Essayez à nouveau ou communiquez avec l'auteur de l'extension."
+#~ msgid ""
+#~ "There was a problem changing status. Try again or communicate with the "
+#~ "plugin author."
+#~ msgstr ""
+#~ "Nous avons rencontré un problème lors du changement de status. Essayez à "
+#~ "nouveau ou communiquez avec l'auteur de l'extension."
+#~ msgid "Media URL:"
+#~ msgstr "URL du média :"
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+#~ msgid "Supported"
+#~ msgstr "Supportées"
+#~ msgid "Imatrice Video Autoload Settings"
+#~ msgstr "Paramètres de <i>Imatrice Video Autoload</i>"
+#~ msgid ""
+#~ "* Video supported by this plugin. <a href=\"%s\">Click here</a> to see "
+#~ "the list of supported video sources."
+#~ msgstr ""
+#~ "* Les vidéos supportées par cet extension. <a href=\"%s\">Cliquez ici</a> "
+#~ "pour voir la liste des vidéos supportées."
+#~ msgid "Video List - Imatrice VAl"
+#~ msgstr "Liste des vidéos - Imatrice VAl"
+#~ msgid "Dynamic loading. <i>(soon)</i>"
+#~ msgstr "Chargement dynamique. <i>(bientôt)</i>"
+#~ msgid ""
+#~ "This option will be usefull for older posts. But as it is going to slow "
+#~ "the post loading for client, I will probably release a batch process for "
+#~ "older posts."
+#~ msgstr ""
+#~ "Cette option sera utile pour les anciens articles. Mais comme ça risque "
+#~ "de ralentir le chargement des articles côté client, je vais probablement "
+#~ "développer un système de traitement par lot pour les anciens articles."
+#~ msgid "Dynamically load video resume when post is display by visitors"
+#~ msgstr ""
+#~ "Chargement dynamique des vidéos lorsque l'article est affiché par un "
+#~ "visiteur"
+#~ msgid "General Settings"
+#~ msgstr "Paramètres généraux"
+#~ msgid "This is a video"
+#~ msgstr "Une vidéo"
+#~ msgid "Open link"
+#~ msgstr "Ouvrir le lien"
+#~ msgid "Pooss Video Autoload"
+#~ msgstr "Pooss Video Autoload"
+

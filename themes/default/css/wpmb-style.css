@@ -1,0 +1,135 @@
+div.wpmb-clear {
+	clear:both !important;
+	font-size:0;
+	height:0;
+	line-height:0;
+	margin:0;
+	padding:0;
+	visibility:hidden;
+}
+div.wpmb-canvas {
+	clear:both;
+	font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+	font-size:11px;
+	text-align:left;
+	padding-top:5px;
+	padding-bottom:4px;
+	border-top:1px solid #E5E5E5;
+	border-bottom:1px solid #E5E5E5;
+	margin-top:8px;
+	margin-bottom:8px;
+	line-height:12px;
+}
+div.wpmb-summary-zone {
+	
+}
+div.wpmb-playing-zone {
+	clear:both;
+	display:none;
+	margin-bottom:4px;
+}
+div.wpmb-hidden-holder {
+	display:none;
+}
+div.wpmb-thumbnail-zone {
+	float:left;
+	padding-right:8px;
+	width:120px;
+}
+div.wpmb-canvas img {
+	border:0 none !important;
+	padding:0 !important;
+}
+img.wpmb-thumbnail {
+	cursor: pointer;
+	cursor: hand;
+	width:120px;
+}
+div.wpmb-play-overlay-zone {
+	cursor: pointer;
+	cursor: hand;
+	position: absolute;
+	float: left;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+div.wpmb-text-zone {
+	/*display:table;*/
+}
+div.wpmb-title {
+	font-weight:bold;
+}
+a.wpmb-title:link {
+	color:#3B5998;
+	text-decoration:none;
+}
+a.wpmb-title:visited {
+	color:#3B5998;
+	text-decoration:none;
+}
+a.wpmb-title:hover {
+	color:#3B5998;
+	text-decoration:underline;
+}
+div.wpmb-domain {
+	color:#808080;
+	padding-top:3px;
+}
+div.wpmb-description {
+	color:#808080;
+	padding-top:5px;
+}
+div.wpmb-tools-zone {
+	float:left;
+	padding-top:4px;
+	color:#808080;
+}
+div.wpmb-tools-author-label {
+	float:left;
+	background-image:url(../images/wpmb-imatrice.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	height:20px;
+	width:20px;
+	margin-right:5px;
+	cursor: pointer;
+	cursor: hand;
+}
+div.wpmb-tools-play-label {
+	float:left;
+	background-image:url(../images/wpmb-play.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	line-height:20px;
+	padding-left:20px;
+	margin-right:10px;
+	cursor: pointer;
+	cursor: hand;
+}
+div.wpmb-tools-stop-label {
+	float:left;
+	display:none;
+	background-image:url(../images/wpmb-close.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	line-height:20px;
+	padding-left:20px;
+	margin-right:10px;
+	cursor: pointer;
+	cursor: hand;
+}
+div.wpmb-tools-new-window-label {
+	float:left;
+	background-image:url(../images/wpmb-link.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	line-height:20px;
+	padding-left:20px;
+	margin-right:10px;
+	cursor: pointer;
+	cursor: hand;
+}
+div.wpmb-stats {
+    float:left;
+    z-index:1;
+}

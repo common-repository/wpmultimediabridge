@@ -1,0 +1,134 @@
+div.wpmb-clear {
+	clear:both !important;
+	font-size:0;
+	height:0;
+	line-height:0;
+	margin:0;
+	padding:0;
+	visibility:hidden;
+}
+div#wpmb-message {
+	display:none;
+	background-color:#FFFFE0;
+	border-color:#E6DB55;
+	-moz-border-radius:3px 3px 3px 3px;
+	border-style:solid;
+	border-width:1px;
+	margin:5px 0 5px;
+	padding:0.4em 0.6em;
+}
+div.wpmb-canvas-border {
+	border-bottom:1px solid #EEEEEE;
+	margin-bottom:8px;
+}
+div.wpmb-summary-zone {}
+div.wpmb-expand-title {
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-expand.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	white-space:nowrap;
+	height:26px;
+	padding-left:20px;
+	padding-top:4px;
+	padding-bottom:2px;
+}
+div.wpmb-expand-title-desactivated {
+	text-decoration:line-through;
+}
+div.wpmb-detail-zone {
+	display:none;
+}
+div.wpmb-data-zone {
+	clear:both;
+	margin-bottom:4px;
+}
+label.wpmb-data-label {
+	margin-left:2px;
+	color:#666666;
+}
+.wpmb-editable {
+	width:98%;
+	font-size:1em;
+}
+.wpmb-not-editable {
+	width:98%;
+	font-size:1em;
+	color:#666666;
+}
+textarea.wpmb-data-description {
+	overflow: scroll;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	overflow:-moz-scrollbars-vertical;
+}
+div.wpmb-button-zone {
+	margin-bottom:4px;
+}
+div.wpmb-collapse-button {
+	float:left;
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-collapse.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	padding:0;
+	margin-top:2px;
+	margin-right:6px;
+	height:18px;
+	width:16px;
+}
+div.wpmb-save-button {
+	float:left;
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-save.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	padding:0;
+	margin-top:2px;
+	margin-right:6px;
+	height:18px;
+	width:16px;
+}
+div.wpmb-activate-button {
+	float:left;
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-activate.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	padding:0;
+	margin-top:2px;
+	margin-right:6px;
+	height:18px;
+	width:16px;
+}
+div.wpmb-desactivate-button {
+	float:left;
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-desactivate.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	padding:0;
+	margin-top:2px;
+	margin-right:6px;
+	height:18px;
+	width:16px;
+}
+div.wpmb-reset-button {
+	float:left;
+	cursor:pointer;
+	cursor:hand;
+	background-image:url(../images/wpmb-reset.png);
+	background-position:left 2px;
+	background-repeat:no-repeat;
+	padding:0;
+	margin-top:2px;
+	margin-right:6px;
+	height:18px;
+	width:16px;
+}
